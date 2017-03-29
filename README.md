@@ -12,4 +12,6 @@ Intelligent Kiosk is a Microsoft Azure application built on top of the [Microsof
 # Setup
 See the [Intelligent Kiosk Guide](https://microsoft.sharepoint.com/teams/CECloudML/_layouts/15/WopiFrame.aspx?sourcedoc={DEC7E276-B5B9-45C8-B43C-B5EA651DB134}&file=Face%20API%20Explorer%20Instructions.docx&action=default).
 
+Remember to change your power plan settings to prevent the Surface Pro from going to sleep during demo. See [here](https://www.groovypost.com/howto/microsoft-surface-rt-sleep-power-options/) for instructions.
+
 Source code for the project can be found [here](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk).
